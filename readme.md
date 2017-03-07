@@ -72,7 +72,7 @@ Assignments|
 ---|
 Intro to MongoDB|
 Mongoose Dashboard|
-Quotind Dojo Redux **GitHub**|
+Quoting Dojo Redux **GitHub**|
 Message Board **GitHub**|
 
 ## Week 2
