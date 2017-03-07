@@ -66,71 +66,113 @@ Survey Form **GitHub**|
 
 Oh no, Mongo!
 
-Afternoon: Login and Registration demo
+Message board will probably take a chunk of your weekend.  Don't fret that it's taking too long--it's a large assignment, and it's important to do right.
 
 Assignments|
 ---|
 Intro to MongoDB|
+Mongoose Dashboard|
+Quotind Dojo Redux **GitHub**|
+Message Board **GitHub**|
 
 ## Week 2
 
 ### Monday, March 13
 
+Modularization: Turning one giant server file into several smaller files
+
+1955 API might not seem like much, but it's actually a very important assignment.  If you can complete it, you'll have pretty much all you need on the server side for a MEAN app...which is good, because tomorrow we start dealing with the client side.
 
 Assignments|
 ---|
+Modularized Mongoose|
+1955 API **GitHub**|
 
 
 
 ### Tuesday, March 14
 
+Angular!
 
 Assignments|
 ---|
+Building our first Angular Page|
+Controller and Directives **GitHub**|
+Filters|
+Controlling Users **GitHub**|
+
+Optional|
+---|
+Learn ng-filter!|
 
 
 ### Wednesday, March 15
 
-
+Angular factories
 
 Assignments|
 ---|
-
+Products with a Factory|
+Products and Orders **GitHub**|
 
 ### Thursday, March 16
 
+Angular routes
 
 Assignments|
 ---|
+Partials & Custom Users|
+Players and Teams **GitHub**|
 
 
 ### Friday, March 17
 
+Full MEAN!
+
+Five assignments may look like a lot, but the first four are all building individual pieces that are combined into MEAN Friends.
+
 Assignments|
 ---|
+File Structure and Simple Server|
+Friends API|
+Angular Friends|
+Building Factories and Controllers|
+MEAN Friends **GitHub**|
+
 
 ## Week 3
 
 ### Monday, March 20
 
-
 Assignments|
 ---|
+Login and Registration **GitHub**|
 
 ### Tuesday, March 21
 
+As of now, you should have all the tools you need to pass the belt exam.  The next few days are just practicing and reinforcing this knowlege.
 
 Assignments|
 ---|
+MEAN Wall **GitHub**|
+
+Optional|
+---|
+Use angular cookies and/or express-session to generate a persistent user after login|
 
 ### Wednesday, March 22
 
+Deployment
+
 Assignments|
 ---|
+Mini-MEAN store **GitHub**|
 
 ### Thursday, March 23
 
-
+Assignments|
+---|
+Discussion Board **GitHub**|
 
 ### Friday, March 24
 
