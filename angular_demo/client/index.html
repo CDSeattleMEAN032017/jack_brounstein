@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Angular?</title>
+		<script type="text/javascript" src="angular/angular.js"></script>
+		<script type="text/javascript">
+			var myAppModule = angular.module("MyApp", [])
+
+			myAppModule.controller("testController", function(){
+				this.names = ["Jack", "Ray", "Kris"]
+
+				this.add_name = function(){
+					this.names.push(this.new_name)
+					this.new_name = ""
+				}
+
+			})
+		</script>
+	</head>
+	<body ng-app="MyApp">
+		<h1>Angular tk?</h1>
+		<div ng-controller="testController as testCtrl">
+			<ul>
+				<li ng-repeat="name in testCtrl.names"> {{name}} </li>
+			</ul>
+
+			<form ng-submit="testCtrl.add_name()">
+				<input type="text" ng-model="testCtrl.new_name"> <input type="submit" value="Add Name">
+			</form>
+			<p>{{ testCtrl.new_name }}</p>
+		</div>
+	</body>
+</html>
